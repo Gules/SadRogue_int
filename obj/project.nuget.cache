@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDP5kkFtU5j1QC2Q5BEtlH6O6JKZGJs9SajGXWSlnbTfd7j+NGkRpvkboorzeZBvatwisbx6Xyb0YnQHTOrngQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\SadRogue_int\\SadRogue_int.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gules\\.nuget\\packages\\gorogue\\3.0.0-beta06\\gorogue.3.0.0-beta06.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\microsoft.toolkit.highperformance\\7.1.2\\microsoft.toolkit.highperformance.7.1.2.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\optimizedpriorityqueue\\4.2.0\\optimizedpriorityqueue.4.2.0.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\sadconsole\\9.2.2\\sadconsole.9.2.2.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\sadconsole.host.monogame\\9.2.2\\sadconsole.host.monogame.9.2.2.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\shairandom\\0.0.1\\shairandom.0.0.1.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\thesadrogue.integration\\1.0.0-beta04\\thesadrogue.integration.1.0.0-beta04.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\thesadrogue.primitives\\1.6.0-rc2\\thesadrogue.primitives.1.6.0-rc2.nupkg.sha512",
+    "C:\\Users\\gules\\.nuget\\packages\\thesadrogue.primitives.monogame\\1.0.0\\thesadrogue.primitives.monogame.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
